@@ -1,3 +1,74 @@
+/* ------------ awal untuk header ----------- */
+body {
+    font-family: "Lucida Grande";
+}
+
+header {
+    height: 65px;
+    width: 100%;
+    background-color: rgba(34, 49, 52, 0.9);
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    width: 160px;
+    margin-top: 20px;
+}
+
+.container {
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.header-right {
+    float: right;
+}
+
+.header-left {
+    float: left;
+    margin-right: -25px;
+}
+
+.header-left a {
+    font-family: "Tahoma";
+    line-height: 65px;
+    padding: 0 25px;
+    color: white;
+    display: block;
+    float: left;
+    transition: all 0.5s;
+}
+
+.header-left a:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.fa {
+    margin-right: 5px;
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+}
+
+.fa-navicon:before, .fa-reorder:before, .fa-bars:before {
+    content: "\f0c9";
+}
+
+.menu-icon {
+    color: white;
+    float: left;
+    padding: 25px 0;
+
+/* -------- akhir untuk header ---------- */
+
 /*ini yang main tambahan*/
 .main{
   margin-left : 50px;
