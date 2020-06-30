@@ -1,31 +1,33 @@
+/*ini yang main tambahan*/
 .main{
   margin-left : 50px;
   height: 5s00px;
 }
-
+/*judul di main tambahan*/
 .main-title{
   border-bottom : 2px solid #dee7ee;
   width : 1400px
 }
-
+/*box isian nama*/
 .nama{
   height : 20px;
   margin-bottom : 10px;
   width : 300px;
   border: 2px solid black;
 }
-
+/*box isian email*/
 .email{
   height : 20px;
   margin-bottom : 10px;
   width : 300px;
   border: 2px solid black;
 }
-
+/*box isian pertanyaan*/
 .tanya{
   width : 500px;
   border: 2px solid black;
 }
+/*tombol kirim*/
 .ask-submit{
   width : 500px;
   height: 50px;
@@ -34,7 +36,7 @@
   background-color : #dee7ec;
   box-shadow : 0 5px black;
 }
-
+/*animasi tombo kirim*/
 .ask-submit:hover{
   cursor : pointer;
 }
