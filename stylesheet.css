@@ -31,7 +31,7 @@ header {
   padding : 0 25px;
   line-height : 65px;
   transition: all 0.5s;
-  
+
 }
 .header-list ul li a:hover {
   background-color: rgba(255, 255, 255, 0.3);
@@ -102,13 +102,13 @@ header {
 }
 .main-side {
   position : relative;
-  
+
 }
 .main-side img {
   width : 70vh;
   float : left;
   margin-right : 100px;
-  
+
 }
 .main-side p {
   font-size : 20px;
@@ -123,7 +123,7 @@ header {
   left :0;
   margin-top : 50px;
   display : flex;
-  
+
 }
 
 
@@ -151,14 +151,14 @@ header {
   object-fit: cover;
   margin : 30px auto 30px auto ;
   transition: all 0.5s ease;
-  
+
 }
 .card h3 {
   margin : 20px 0 10px 0;
 }
 .btn {
   margin-top : 30px;
-  
+
 }
 .btn a {
   position : relative;
@@ -180,7 +180,7 @@ header {
 .founder {
   text-align : center;
   font-weight : normal;
-  margin-top : 50px;
+  margin-top : 500px;
   color :#32393b;
 }
 /* CARD HOVER */
@@ -188,7 +188,7 @@ header {
   width : 20%;
   height : 60vh;
   border-radius : 3px;
- 
+
 }
 .card:hover img {
   width : 200px;
@@ -202,6 +202,9 @@ header {
 }
 /*judul di main tambahan*/
 .main-title{
+  padding-bottom: 10px;
+  margin-top: 50px;
+  margin-bottom: 20px;
   border-bottom : 2px solid #dee7ee;
   width : auto;
 }
@@ -274,5 +277,4 @@ header {
   padding-bottom: 20px;
 }
 /*akhir dari footer*/
-
-
+ 
