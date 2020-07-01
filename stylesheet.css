@@ -83,7 +83,7 @@ a {
 /*judul di main tambahan*/
 .main-title{
     border-bottom : 2px solid #dee7ee;
-    width : 1400px
+    width : auto;
 }
 
 /*box isian nama*/
