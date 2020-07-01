@@ -130,16 +130,23 @@ a {
 }
 
 /*ini adalah footer*/
-footer img {
-    width: 124px;
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
 }
 
-footer p {
-    color: #b3aeb5;
-    font-size: 12px;
+.footer-logo {
+  float: left;
+  font-size: 32px;
 }
- 
-footer {
-    padding-top: 30px;
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
 }
 /*akhir dari footer*/
