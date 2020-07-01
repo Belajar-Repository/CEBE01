@@ -260,10 +260,9 @@ header {
   margin-top: 15%;
 }
 
-.footer-logo .logo {
+.footer-logo {
   float: left;
   font-size: 32px;
-  width : 160px;
   margin-top: 20px;
 }
 
