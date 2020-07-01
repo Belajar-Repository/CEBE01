@@ -260,9 +260,11 @@ header {
   margin-top: 15%;
 }
 
-.footer-logo {
+.footer-logo .logo {
   float: left;
   font-size: 32px;
+  width : 160px;
+  margin-top: 20px;
 }
 
 .footer-list {
