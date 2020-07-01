@@ -250,7 +250,6 @@ header {
 }
 
 
-
 /*ini adalah footer*/
 .footer {
   background-color: rgba(34, 49, 52, 0.9);
@@ -263,7 +262,6 @@ header {
 .footer-logo {
   float: left;
   font-size: 32px;
-  margin-top: 20px;
 }
 
 .footer-list {
