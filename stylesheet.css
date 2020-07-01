@@ -71,55 +71,75 @@ a {
 
 /*ini yang main tambahan*/
 .container{
-  max-width: 1170px;
-  width: 100%;
-  padding: 0 15px;
-  margin: 0 auto;
+    max-width: 1170px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
 }
     
 .main{
-  height: 500px;
+    height: 500px;
 }
 /*judul di main tambahan*/
 .main-title{
-  border-bottom : 2px solid #dee7ee;
-  width : 1400px
+    border-bottom : 2px solid #dee7ee;
+    width : 1400px
 }
+
 /*box isian nama*/
 .nama{
-  height : 20px;
-  margin-bottom : 10px;
-  width : 300px;
-  border: 2px solid black;
+    height : 20px;
+    margin-bottom : 10px;
+    width : 300px;
+    border: 2px solid black;
 }
+
 /*box isian email*/
 .email{
-  height : 20px;
-  margin-bottom : 10px;
-  width : 300px;
-  border: 2px solid black;
+    height : 20px;
+    margin-bottom : 10px;
+    width : 300px;
+    border: 2px solid black;
 }
+
 /*box isian pertanyaan*/
 .tanya{
-  width : 500px;
-  border: 2px solid black;
+    width : 500px;
+    border: 2px solid black;
 }
+
 /*tombol kirim*/
 .ask-submit{
-  width : 500px;
-  height: 50px;
-  font-size : 20px;
-  font-family : times new roman;
-  background-color : #dee7ec;
-  box-shadow : 0 5px black;
+    width : 500px;
+    height: 50px;
+    font-size : 20px;
+    font-family : times new roman;
+    background-color : #dee7ec;
+    box-shadow : 0 5px black;
 }
-/*animasi tombo kirim*/
+
+/*animasi tombol kirim*/
 .ask-submit:hover{
-  cursor : pointer;
+    cursor : pointer;
 }
+
 .ask-submit:active{
- box-shadow : none;
- position : relative;
+    box-shadow : none;
+    position : relative;
  top: 5px;
 }
 
+/*ini adalah footer*/
+footer img {
+    width: 124px;
+}
+
+footer p {
+    color: #b3aeb5;
+    font-size: 12px;
+}
+ 
+footer {
+    padding-top: 30px;
+}
+/*akhir dari footer*/
