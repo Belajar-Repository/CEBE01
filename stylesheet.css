@@ -146,6 +146,7 @@ a {
 .footer-list {
   float: right;
   margin-right: auto;
+  padding-right: 30px;
 }
 
 .footer-list li {
